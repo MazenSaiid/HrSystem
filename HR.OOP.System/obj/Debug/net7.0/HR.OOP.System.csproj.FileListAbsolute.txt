@@ -1,0 +1,14 @@
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\bin\Debug\net7.0\HR.OOP.System.exe
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\bin\Debug\net7.0\HR.OOP.System.deps.json
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\bin\Debug\net7.0\HR.OOP.System.runtimeconfig.json
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\bin\Debug\net7.0\HR.OOP.System.dll
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\bin\Debug\net7.0\HR.OOP.System.pdb
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.AssemblyInfoInputs.cache
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.AssemblyInfo.cs
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.csproj.CoreCompileInputs.cache
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.dll
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\refint\HR.OOP.System.dll
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.pdb
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\HR.OOP.System.genruntimeconfig.cache
+D:\Dev Code\My Projects\HR.System\HR.OOP.Syste,\obj\Debug\net7.0\ref\HR.OOP.System.dll
